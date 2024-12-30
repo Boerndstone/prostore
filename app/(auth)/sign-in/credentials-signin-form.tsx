@@ -56,7 +56,7 @@ const CredentialsSignInForm = () => {
           <div className="text-center text-destructive">{data.message}</div>
         )}
         <div className="text-sm text-center text-muted-foreground">
-          Don't have an acount? {""}
+          Don&apos;t have an acount? {""}
           <Link href="/sign-up" target="_self" className="link">
             Sign up
           </Link>
