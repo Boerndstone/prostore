@@ -9,7 +9,6 @@ import {
   DropdownMenuTrigger,
   DropdownMenuLabel,
 } from "@/components/ui/dropdown-menu";
-import { Ghost } from "lucide-react";
 
 const UserButton = async () => {
   const session = await auth();
